@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RepoOCR</string>
+    <string name="forget_my_password">Şifreni mi unuttun?</string>
+    <string name="pasword">Şifre</string>
+    <string name="username">Kullanıcı adı</string>
+    <string name="sign_in_to_your_account">Giriş yapınız</string>
+    <string name="welcome_back">Kalyon PV</string>
+    <string name="sign_in">Giriş</string>
+    <string name="takePhoto">Fotoğraf Çek</string>
+    <string name="takeBarcode">Barkodu Oku</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470047453419",
+    "project_id": "repoocr-8ac03",
+    "storage_bucket": "repoocr-8ac03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470047453419:android:a98b53cd67bb109b900eae",
+        "android_client_info": {
+          "package_name": "com.kalyonpv.repoocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470047453419-bh75gbq54a67qnq0bcio65fkqjhg489i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzdwdiRRqlCQUINcY-qZc0__2B8KOiYZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470047453419-bh75gbq54a67qnq0bcio65fkqjhg489i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
