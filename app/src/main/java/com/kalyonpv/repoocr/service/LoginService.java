@@ -18,8 +18,6 @@ public class LoginService extends BaseRetrofit {
     UserClient userClient = retrofit.create(UserClient.class);
 
     public void login(Login login, Context context){
-
-        /*
         Call<LoginJwt> call = userClient.login(login);
 
         call.enqueue(new Callback<LoginJwt>() {
@@ -38,7 +36,6 @@ public class LoginService extends BaseRetrofit {
             public void onFailure(Call<LoginJwt> call, Throwable t) {
                 Toast.makeText(context, "Giriş başarısız", Toast.LENGTH_LONG).show();
             }
-        }); */
-        Intent intent = new Intent(context, MainActivity.class);
+        });
     }
 }
